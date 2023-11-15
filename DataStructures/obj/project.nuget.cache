@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHW/Javt9Ol6IHfBzF1WRleCO1dlQvQ3C09HG3W05toD5LaQpkgzNe11HRu1UupD7ZKh5hOHW53gb7yW75zQhA==",
+  "success": true,
+  "projectFilePath": "/home/xyve/RiderProjects/DataStructures/DataStructures/DataStructures.csproj",
+  "expectedPackageFiles": [
+    "/home/xyve/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
